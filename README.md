@@ -1,4 +1,4 @@
-# vue-dashboard
+# AI generated dashboard
 
 ## Project setup
 ```
